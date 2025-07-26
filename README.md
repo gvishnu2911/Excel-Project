@@ -17,13 +17,14 @@ This Excel dashboard project provides key insights into the performance of a hos
 ## 📁 Files Included
 
 - `Hospital_ER_Dashboard.xlsx` – The main Excel file with embedded dataset and dashboard.
-- `dashboard-preview.png` – Preview image of the Excel dashboard. *(Optional)*
+- `dashboard-preview.png` – Preview image of the Excel dashboard. 
 - `README.md` – This description file for GitHub.
 
 
 ## 📷 Dashboard Preview
 
-*(Add screenshot image here if uploaded)*
+*(<img width="1860" height="770" alt="Screenshot 2025-07-25 143732" src="https://github.com/user-attachments/assets/b2878765-1c3f-4ddf-93d7-aaf580b74a73" />
+)*
 
 ---
 
