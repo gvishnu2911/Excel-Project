@@ -13,6 +13,14 @@ This Excel dashboard project provides key insights into the performance of a hos
 - 🎯 Clean & professional layout for presentations or reporting.
 
 ---
+## 💡 Special Hidden Feature
+
+All three KPI cards (Patients, Wait Time, Satisfaction) are **interactive**:
+- Hidden image/shape inside each KPI
+- Clicking them reveals **day-wise data view**
+- No VBA used — powered by Excel tricks only
+
+---
 
 ## 📁 Files Included
 
